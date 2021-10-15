@@ -1,0 +1,2 @@
+Comando cp en git nos ayuda a desplazarnos entre el directorio de carpetas, usamos cd + el nombre de la carpeta par aingresar y podemos usar cd ../ para retroceder
+
